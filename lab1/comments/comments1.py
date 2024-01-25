@@ -1,3 +1,0 @@
-'''
-Bul komment dep atalady
-'''
