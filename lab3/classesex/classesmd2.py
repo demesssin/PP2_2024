@@ -26,6 +26,6 @@ shape = Shape()
 square = Square(7)
 rectangle = Rectangle(7,8)
 
-print("Area of the shape:", shape.area())    # Output: 0
-print("Area of the square:", square.area())  # Output: 25
+print("Area of the shape:", shape.area())  
+print("Area of the square:", square.area())  
 print("Area of the rectangle:", rectangle.area())
