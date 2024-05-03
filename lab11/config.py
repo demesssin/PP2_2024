@@ -1,6 +1,6 @@
 from configparser import ConfigParser
 
-def load_config(filename=r'C:\Users\aidyn\Documents\pp2\lab11\database.ini', section='postgresql'):
+def load_config(filename=r'C:\Users\PP2_2024\lab11\database.ini', section='postgresql'):
     parser = ConfigParser()
     parser.read(filename)
 
